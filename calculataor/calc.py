@@ -8,4 +8,8 @@ elif c == "-":
 elif c == "*":
     print(a * b)
 elif c == "/":
-    print(a / b)    
+    print(a / b)
+#pull github to computer
+else:
+    print("invalid input")
+    
